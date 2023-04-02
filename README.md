@@ -3,7 +3,7 @@
 Powtórzenie wiadomości z C++ poziom_1
 Wykonaj zadania zgodnie z instrukcją podaną przez prowadzącego.
 
-1. if else
+### 1. if else
 jeśli (czas < 10) {
  to " piękny Poranek."
   ale jeśli (czas < 20) 
@@ -13,7 +13,7 @@ pisz "Dobry wieczór."
 
 // Wynikiem jest „Dobry wieczór”.
 
-2. switch (dzien)
+### 2. switch (dzien)
     przełącznik 
     1:
     pisz "sobota";
@@ -22,7 +22,7 @@ pisz "Dobry wieczór."
     pisz "niedziela";
    pisz "Weekend";
     
-3. While ()
+### 3. While ()
 dla  i = 0;
 a=2
 b=3 
@@ -30,7 +30,7 @@ b=3
    pisz << i 
    zastosuj inkrementacje w tym miejscu
    
-4.  Pętla zewnętrzna
+### 4.  Pętla zewnętrzna
   dla int i = 1; i <= 2; ++i
   pisz "Zewntrzna: " << i << "\n"; // Wykonuje się 2 razy
 
