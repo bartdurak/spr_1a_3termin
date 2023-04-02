@@ -41,21 +41,21 @@ Wykonaj zadania zgodnie z instrukcją podaną przez prowadzącego.
     dla (int j = 1; j <= 3; ++ j) {
     pisz "Wewnetrzna: " << j << "\n"; // Wykonuje 6 razy (2 * 3)
 
-## zasady oceniania
+## Zasady oceniania
 
-jedno zadanie 1.99 pkt. jeden błąd -0,5 pkt.
-do zdobycia jest 2*6=~ 12 pkt -> 99.99 % (bdb)
+jedno zadanie 2.0 pkt. jeden błąd -0,5 pkt.
+do zdobycia jest 2*6=~ 12 pkt -> 100 % (bdb)
 ponad 100% (cel)
 
 Sprawdzenie umiejętności pisania krótkich programów C++ obejmuje 6 zadań.
 
 Przjdź do repozytorium
-https://gitlab.com/programista_1/breake3.git
+https://gitlab.com/programista_1/breake5.git
 
-Załóż własnt branche
+*Załóż własnt branche* (domyślnie już jesteś na swojej gałęzi po zalogowaniu)
 ImięNazwisko
-
-Jedno zadanie to jeden comit
+*jedno zadanie to jeden commit* 
+zadania nazywaj zgodnie z nazwą funkcji, operatora, czy przełącznika 
 
 switch
 if else
